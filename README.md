@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Husain-Vora
-- 👀 I’m interested in AR/VR and GameDev
-- 🌱 I’m currently learning Unity and Unreal
-- 💞️ I’m looking to collaborate on AR/VR and GameDev Projects
+- 👀 I’m interested in Deep Learning, Machine Learning and System programming
+- 🌱 I’m currently learning tensorflow 2.0
+- ✨ I'm Also working on 32-bit multithread kernel, which I'm building from scratch
+- 💞️ I’m looking to collaborate on Machine learning Projects 
 - 📫 How to reach me at email : husain.vora.0192@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: ...
